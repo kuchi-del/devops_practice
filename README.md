@@ -1,2 +1,4 @@
 my frst devops project
-hello
+hi
+change data
+create a merge conflicts
